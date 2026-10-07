@@ -1,0 +1,2 @@
+alice@museum.com,Alice Johnson,password123,VISITOR,2026-10-06T23:29:59.999902600,true,9876543210,123 Main St,English
+bob@museum.com,Bob Smith,admin123,ADMIN,2026-10-06T23:30:00.011324400,true,ADM1002,Operations,ADMIN

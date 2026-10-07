@@ -1,0 +1,2 @@
+BKG7440,alice@museum.com,alice@museum.com,EXH7372,2026-10-06,Slot 0,3,450.0,150.0,CONFIRMED,N/A
+BKG4928,test@museum.com,test@museum.com,EXH4870,2026-10-06,Slot 0,2,300.0,150.0,CONFIRMED,N/A

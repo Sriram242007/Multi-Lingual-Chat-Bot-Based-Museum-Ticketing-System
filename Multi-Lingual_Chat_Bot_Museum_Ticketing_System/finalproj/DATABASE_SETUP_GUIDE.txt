@@ -1,0 +1,41 @@
+MUSEUM TICKETING SYSTEM - DATABASE SETUP GUIDE
+
+1. Requirements
+- MySQL Server
+- MySQL Workbench or MySQL command line
+- JDK 24
+- MySQL Connector/J available to the IntelliJ project for database mode
+
+2. Create the database
+- Open database/museum_db.sql.
+- Execute the complete script.
+- It creates museum_db, tables, constraints and sample records.
+
+3. Verify
+USE museum_db;
+SHOW TABLES;
+SELECT * FROM exhibits;
+SELECT * FROM time_slots;
+SELECT * FROM users;
+
+4. Java database configuration
+The supplied ExhibitRepository defaults to:
+URL: jdbc:mysql://localhost:3306/museum_db
+User: root
+Password: 200724
+
+These can be overridden with:
+museum.db.url
+museum.db.user
+museum.db.password
+
+5. JDBC driver
+The supplied ZIP does not contain MySQL Connector/J. Add the Connector/J JAR to the existing IntelliJ project classpath when database mode is required.
+
+6. File fallback
+If Connector/J/database connection is unavailable, ExhibitRepository falls back to:
+data/exhibits.txt
+data/time_slots.txt
+
+7. Run
+Open the existing project in IntelliJ, select JDK 24, and run museum.Main or museum.MuseumApplication according to the existing project entry point.

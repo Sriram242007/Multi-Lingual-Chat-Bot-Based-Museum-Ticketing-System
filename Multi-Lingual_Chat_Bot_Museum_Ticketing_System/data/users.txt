@@ -1,0 +1,4 @@
+ram@gmail.com,RAM,123456,VISITOR,2026-10-07T05:05:42.202442,true,7894561230,28 A,null
+rajesh2008@gmail.com,Rajesh D,456789,VISITOR,2026-10-07T05:05:42.202442,true,1234567890,27 A,null
+bobandrew@gmail.com,Bob Andrew,123456,VISITOR,2026-10-07T05:06:43.562570800,true,7894561230,14th cross street , new delhi , india,English
+bob2008@gmail.com,Bob Andrew,12345678,VISITOR,2026-10-07T05:05:42.202442,true,7894561230,20A,null

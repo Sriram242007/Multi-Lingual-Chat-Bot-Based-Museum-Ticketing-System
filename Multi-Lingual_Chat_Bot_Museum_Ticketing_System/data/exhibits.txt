@@ -1,0 +1,3 @@
+EXH2245,Ancient India,Historical artifacts and sculptures from ancient India,150.0,History,Hall 1
+EXH2254,Modern Art,Contemporary art and installations,200.0,Art,Hall 2
+EXH2255,Natural History,Fossils, minerals, and natural wonders,100.0,Science,Hall 3

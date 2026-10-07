@@ -1,0 +1,2 @@
+alice@museum.com,Alice Johnson,password123,VISITOR,2026-10-06T23:54:14.845392200,true,9876543210,123 Main Street,English
+test@museum.com,Test User,password123,VISITOR,2026-10-06T23:54:14.902638400,true,9876543210,Main Street,English

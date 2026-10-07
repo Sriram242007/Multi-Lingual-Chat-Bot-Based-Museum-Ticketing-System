@@ -1,0 +1,2 @@
+EXH22,Ancient India,Historical artifacts,150.0,History,Hall 1
+EXH48,Modern Art,Contemporary works,200.0,Art,Hall 2

@@ -1,0 +1,35 @@
+========================================
+       MUSEUM TICKET RECEIPT
+========================================
+
+Booking ID       : BKG4928
+Receipt Date     : 06-10-2026 23:54:15
+
+VISITOR DETAILS
+Email            : test@museum.com
+
+EXHIBIT DETAILS
+Exhibit          : Ancient India
+Date             : 06-10-2026
+Time Slot        : Slot 0
+
+TICKET DETAILS
+Number of Tickets: 2
+Price per Ticket : ₹150.00
+Total Amount     : ₹300.00
+
+PAYMENT DETAILS
+Transaction ID   : TXN20001
+Payment Method   : UPI
+Payment Status   : SUCCESS
+Payment Date     : 06-10-2026 23:54:14
+
+BOOKING STATUS
+Status           : CONFIRMED
+
+========================================
+       THANK YOU FOR VISITING!
+========================================
+
+Please keep this receipt for your records.
+For more information, visit our museum.
